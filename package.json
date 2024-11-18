@@ -6,10 +6,6 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-<<<<<<< HEAD
-    "cra-template": "1.2.0",
-=======
->>>>>>> 093fdbf3ce4a06a4207e31019e7873bdb94469f5
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
